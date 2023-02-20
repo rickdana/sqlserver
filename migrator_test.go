@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"gorm.io/driver/sqlserver"
+	"github.com/rickdana/sqlserver"
 	"gorm.io/gorm"
 )
 
